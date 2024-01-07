@@ -24,3 +24,9 @@ Heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbn
 /developer
 /sequences
 ```
+
+# 3. GDScript
+
+# 4. Levels/Maps
+
+# 5. Textures
