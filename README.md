@@ -83,3 +83,18 @@ Group related scripts together in the same directory. For example, all scripts r
 # 4. Levels/Maps
 
 # 5. Textures
+
+## Texture Naming Conventions in Godot
+
+1. **Diffuse/Albedo Textures**: `T_AssetName_D.tres` or `t_assetname_d.png`, etc.
+   - Example: `T_Player_D.tres`, `t_player_d.png`.
+2. **Normal Textures**: `T_AssetName_N.tres` or `t_assetname_n.png`, etc.
+   - Example: `T_Player_N.tres`, `t_player_n.png`.
+3. **Specular Textures**: `T_AssetName_S.tres` or `t_assetname_s.png`, etc.
+   - Example: `T_Player_S.tres`, `t_player_s.png`.
+4. **Emissive Textures**: `T_AssetName_E.tres` or `t_assetname_e.png`, etc.
+   - Example: `T_Player_E.tres`, `t_player_e.png`.
+5. **Roughness Textures**: `T_AssetName_R.tres` or `t_assetname_r.png`, etc.
+   - Example: `T_Player_R.tres`, `t_player_r.png`.
+6. **Metallic Textures**: `T_AssetName_M.tres` or `t_assetname_m.png`, etc.
+   - Example: `T_Player_M.tres`, `t_player_m.png`.
